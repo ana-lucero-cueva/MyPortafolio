@@ -1,0 +1,52 @@
+
+/* .gradient-background {
+    background: linear-gradient(300deg, lightblue, #e06174, #5bb0f5);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  } */
+
+
+  html,
+  body {
+    height: 100%;
+    background-image:url(./assets/images/jack-chen-8dUhhcEBDcE-unsplash.jpg);
+  }
+
+
+  .form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+    background-color: rgba(233, 225, 225, 0.5) !important;
+    box-shadow: 1px 2px 2px 5px #eee !important;
+
+  }
+  .form-signin .checkbox {
+    font-weight: 400;
+  }
+  .form-signin .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+  }
+  .form-signin .form-control:focus {
+    z-index: 2;
+  }
+  .form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  .form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+  strong{
+    font-size:2rem;
+    font-family: 'Times New Roman', Times, serif;
+
+}

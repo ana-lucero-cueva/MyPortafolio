@@ -1,0 +1,47 @@
+.top-container{
+    background-color: rgb(178, 164, 255);
+    padding: 100%;
+    position: relative;
+}
+h1.display-5{
+    color: rgb(255, 180, 180);
+}
+nav.navbar{
+    background-color: skyblue;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+.nav-item >.nav-link{
+    color:rgb(255, 222, 180);
+}
+a.navbar-brand {
+    text-align: center;
+    color: rgb(255, 180, 180);
+}
+
+.carousel-item > img{
+    height: 100%;
+    width: 100%;
+}
+#icono{
+    height: 30px;
+    width: 30px;
+    color: darkred;
+}
+
+img{
+    height: 250px;
+    width: 350px;
+}
+
+section{
+    background-color: rgb(253, 247, 195);
+}
+
+.navbar{
+    background-color:rgb(255, 222, 180);
+}
